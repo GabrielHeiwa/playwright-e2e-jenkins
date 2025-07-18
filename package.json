@@ -1,0 +1,23 @@
+{
+  "name": "playwright-e2e-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielHeiwa/playwright-e2e-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GabrielHeiwa/playwright-e2e-jenkins/issues"
+  },
+  "homepage": "https://github.com/GabrielHeiwa/playwright-e2e-jenkins#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}
